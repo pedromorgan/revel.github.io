@@ -337,6 +337,7 @@ Specifies the default datetime format for the application.  Revel uses this in t
 Default: "2006-01-02 15:04"
 
 ### Database
+ - See also the [Database module](database.html)
 
 #### db.import
 
