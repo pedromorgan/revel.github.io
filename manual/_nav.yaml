@@ -1,0 +1,97 @@
+root: ..
+name: manual
+section_title: Manual
+nav:
+-
+  name: Overview
+  articles:
+  -
+    title: Introduction
+    url: index.html
+  -
+    title: Concepts
+    url: concepts.html
+  -
+    title: Organization
+    url: organization.html
+-
+  name: Controllers
+  articles:
+  -
+    title: Controllers Overview
+    url: controllers.html
+  -
+    title: URL Routing
+    url: routing.html
+  -
+    title: Request Parameters
+    url: parameters.html
+  -
+    title: Validation
+    url: validation.html
+  -
+    title: Session & Flash
+    url: sessionflash.html
+  -
+    title: Results & Response
+    url: results.html
+  -
+    title: Templates
+    url: templates.html
+  -
+    title: Interceptors
+    url: interceptors.html
+  -
+    title: Filters
+    url: filters.html
+  -
+    title: Websockets
+    url: websockets.html
+  -
+    title: Internationalization
+    url: i18n-messages.html
+  -
+    title: Cache
+    url: cache.html
+  -
+    title: Database
+    url: database.html
+  -
+    title: Debugging
+    url: debug.html
+-
+  name: Modules
+  articles:
+  -
+    title: Modules Overview
+    url: modules.html
+  -
+    title: Testing
+    url: testing.html
+  -
+    title: Jobs
+    url: jobs.html
+-
+  name: Operational
+  articles:
+  -
+    title: Versions
+    url: versions.html
+  -
+    title: Logging
+    url: logging.html
+  -
+    title: Deployment
+    url: deployment.html
+-
+  name: Reference
+  articles:
+  -
+    title: app.conf
+    url: appconf.html
+  -
+    title: revel shell tool
+    url: tool.html
+  -
+    title: FAQ
+    url: faq.html 

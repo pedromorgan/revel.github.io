@@ -1,0 +1,31 @@
+root: ..
+name: samples
+section_title: Samples
+nav:
+-
+  name: Samples
+  articles:
+  -
+    title: Overview
+    url: index.html
+  -
+    title: Booking
+    url: booking.html
+  -
+    title: Chat
+    url: chat.html
+  -
+    title: Validation
+    url: validation.html
+  -
+    title: Upload
+    url: upload.html
+  -
+    title: Twitter OAuth
+    url: twitter-oauth.html
+  -
+    title: Facebook OAuth2
+    url: facebook-oauth2.html
+  -
+    title: Messages
+    url: messages.html
